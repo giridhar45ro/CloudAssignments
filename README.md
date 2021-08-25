@@ -1,4 +1,3 @@
-# CloudAssignments
 ## Steps
 1. Create a html file and create a canvas.
 2. Install Charts.js using proper CDN.
